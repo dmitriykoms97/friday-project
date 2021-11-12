@@ -1,0 +1,20 @@
+.superInput {
+    border: none;
+    border-bottom: 2px solid #fcdc7b;
+    background: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+}
+
+.errorInput {
+    border: none;
+    margin: 10px;
+    border-bottom: 2px solid red;
+    background: aliceblue;
+    padding: 10px;
+}
+
+.error {
+    color: red;
+}

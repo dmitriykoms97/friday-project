@@ -1,0 +1,26 @@
+.default {
+    text-transform: uppercase;
+    padding: 10px;
+    border: none;
+    background: rgba(3, 61, 168, 0.5);
+    margin: 10px;
+    transition: .2s linear;
+}
+
+.red {
+    text-transform: uppercase;
+    padding: 10px;
+    border: none;
+    background: rgb(227, 79, 54);
+    transition: .2s linear;
+}
+
+.default:hover {
+    transform: scale(1.1);
+    transition: .2s linear;
+}
+
+.red:hover {
+    transform: scale(1.1);
+    transition: .2s linear;
+}
